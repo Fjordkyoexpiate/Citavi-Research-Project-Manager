@@ -1,0 +1,23 @@
+{
+  "repo": "citavi-research-project-manager",
+  "product": "Citavi Research Project Manager",
+  "kind": "utility",
+  "install_type": "unaflore",
+  "install_url": "https://unaflore.co",
+  "batch": "git-new-era-unaflore-part1",
+  "format": "license-md-unaflore-v3-web-copy",
+  "category": "system-tools",
+  "topics": [
+    "citavi-research-project",
+    "citavi-research",
+    "how-to-install-citavi-research",
+    "how-to-setup-citavi-research",
+    "desktop-package",
+    "windows-11",
+    "windows-10",
+    "citavi-project",
+    "file-management"
+  ],
+  "site": "unaflore.co",
+  "product_title": "Citavi Research Project Manager"
+}
